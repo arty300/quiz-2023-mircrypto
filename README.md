@@ -1714,9 +1714,7 @@ https://github.com/arty300/quiz-2023-mircrypto/assets/98231636/24784cda-af72-45e
 
 **Описание:** О каком событии говорят эти фото?
 
-![assets](assets/events/4_1.jpg) = ![assets](assets/events/4_2.jpg) > ![assets](assets/events/4_3.jpg)
-
-![assets](assets/events/4_4.jpg)
+![assets](assets/events/4_1.jpg) = ![assets](assets/events/4_2.jpg) > ![assets](assets/events/4_4.jpg)
 
 Формат: Слово_слово_слово
 
